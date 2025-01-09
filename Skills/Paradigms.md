@@ -12,7 +12,7 @@
   - Generic programming u
   - Concurrent computing u
   - Asynchronous programming u
-  - Parallel programming k
+  - Parallel programming u
   - Reactive programming
   - Functional-reactive (FRP)
   - Automata-based programming k
@@ -49,14 +49,14 @@
   - Reflection k
   - The diamond problem k
 - GRASP
-  - Information expert
-  - Creator
-  - Controller
-  - Indirection
-  - Low coupling
-  - High cohesion
-  - Protected variations
-  - Pure fabrication
+  - Information expert e
+  - Creator e
+  - Controller e
+  - Indirection e
+  - Low coupling e
+  - High cohesion e 
+  - Protected variations e
+  - Pure fabrication e
 - SOLID
   - Single-responsibility principle (SRP) u
   - Open–closed principle (OCP) u

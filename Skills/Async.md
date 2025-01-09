@@ -12,17 +12,17 @@
   - kqueue
   - Completion ports
   - Event ports
-  - libuv
+  - libuv h
   - Race conditions k
-  - Dead locks k
+  - Dead locks u
   - Live locks
-  - Concurrent programming k
-  - Parallel programming k
+  - Concurrent programming u
+  - Parallel programming u
   - Actor Model
   - Thread u
   - Process u
 - Async contracts
-  - Callbacks
+  - Callbacks k
   - Callback-last-error-first
   - Thenable
   - Promise e
@@ -35,11 +35,11 @@
   - Event k
   - Coroutine u
   - Goroutine h
-  - Signal h
+  - Signal u
   - Stream
   - Chain of responsibility
   - Middleware
-  - Locks h
+  - Locks u
 - Async adapters and utils
   - callbackify
   - promisify
@@ -47,16 +47,16 @@
   - Callbacks compose
   - Async compose
 - Async abstractions interfaces
-  - EventEmitter
-  - Observable/Observer
+  - EventEmitter k
+  - Observable/Observer k
   - Readable
   - Writable
   - Transform
   - Async Pool
   - Async Queue
   - Async Collector
-  - Semaphore
-  - Mutex h
+  - Semaphore h
+  - Mutex u
   - Spin Lock
 - JavaScript & Node.js specific
   - Timers

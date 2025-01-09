@@ -22,12 +22,12 @@
   - Quality k
   - Availability k
   - Flexibility e
-  - Law of Demeter (LoD)
+  - Law of Demeter (LoD) k
 - Application architecture
-  - Isolation between layer
+  - Isolation between layer k
   - Domain-specific language (DSL)
-  - System vs applied code
-  - Multilayer approach
+  - System vs applied code e
+  - Multilayer approach k
   - Hexagonal architecture
   - Separation of concerns (SoC) e
   - Metaprogramming
@@ -43,7 +43,7 @@
   - CQRS
   - Event sourcing
   - E-R data modeling
-  - Entity-relationship diagram
+  - Entity-relationship diagram h
   - IDEF1X
   - UML h
   - Work breakdown structure

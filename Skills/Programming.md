@@ -3,7 +3,7 @@
 - Concepts
   - Model u
   - Modeling u
-  - Subject domain h
+  - Subject domain k
   - Algorithm e
   - Syntax e
   - Semantics e
@@ -39,7 +39,7 @@
   - Scalar e
   - Literal e
   - Expression e
-  - Heap h
+  - Heap e
   - Function e
   - Procedure e
   - Method e
@@ -56,7 +56,7 @@
   - Regular expression e
   - Interface e
   - Namespaces e
-  - Call stack h
+  - Call stack e
   - Naming conventions e
   - Coding conventions e
   - Camel case e
@@ -84,7 +84,7 @@
   - Signature e
   - Argument e
   - Parameter e
-  - Pure function h
+  - Pure function e
   - Lambda expression u
   - Side effects e
   - Closure u
@@ -97,11 +97,11 @@
   - Listener u
   - Composition u
   - Pipe
-  - Memoize
+  - Memoize u
   - Wrapper u
-  - Functor
-  - Monad
-  - Monoid
+  - Functor h
+  - Monad h
+  - Monoid h
   - Generator u
   - Coroutine u
 - Data structures
@@ -179,8 +179,8 @@
   - Accidental complexity
   - Action at a distance
   - Spaghetti e
-  - Silver bullet
-  - Not invented here
+  - Silver bullet e
+  - Not invented here e
   - Dead code e
   - Unreachable code e
   - Duplicate code e
