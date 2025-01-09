@@ -1,45 +1,45 @@
 ## Asynchronous programming
 
 - Theory
-  - Event loop k
-  - `try..catch` u
-  - Non-blocking e
-  - Async I/O u
-  - Thread pool k
+  - Event loop: 🎓 known
+  - `try..catch`: 🖐️ used
+  - Non-blocking: 🙋 explained
+  - Async I/O: 🖐️ used
+  - Thread pool: 🎓 known
   - Pattern Reactor
   - CAS operations
   - epoll
   - kqueue
   - Completion ports
   - Event ports
-  - libuv h
-  - Race conditions k
-  - Dead locks u
+  - libuv: 👂 heard
+  - Race conditions: 🎓 known
+  - Dead locks: 🖐️ used
   - Live locks
-  - Concurrent programming u
-  - Parallel programming u
+  - Concurrent programming: 🖐️ used
+  - Parallel programming: 🖐️ used
   - Actor Model
-  - Thread u
-  - Process u
+  - Thread: 🖐️ used
+  - Process: 🖐️ used
 - Async contracts
-  - Callbacks k
+  - Callbacks: 🎓 known
   - Callback-last-error-first
   - Thenable
-  - Promise e
-  - Async/await e
-  - Future e
-  - Deferred k
-  - Sync generator u
-  - Async Generator k
-  - Async Iterator k
-  - Event k
-  - Coroutine u
-  - Goroutine h
-  - Signal u
+  - Promise: 🙋 explained
+  - Async/await: 🙋 explained
+  - Future: 🙋 explained
+  - Deferred: 🎓 known
+  - Sync generator: 🖐️ used
+  - Async Generator: 🎓 known
+  - Async Iterator: 🎓 known
+  - Event: 🎓 known
+  - Coroutine: 🖐️ used
+  - Goroutine: 👂 heard
+  - Signal: 🖐️ used
   - Stream
   - Chain of responsibility
   - Middleware
-  - Locks u
+  - Locks: 🖐️ used
 - Async adapters and utils
   - callbackify
   - promisify
@@ -47,16 +47,16 @@
   - Callbacks compose
   - Async compose
 - Async abstractions interfaces
-  - EventEmitter k
-  - Observable/Observer k
+  - EventEmitter: 🎓 known
+  - Observable/Observer: 🎓 known
   - Readable
   - Writable
   - Transform
   - Async Pool
   - Async Queue
   - Async Collector
-  - Semaphore h
-  - Mutex u
+  - Semaphore: 👂 heard
+  - Mutex: 🖐️ used
   - Spin Lock
 - JavaScript & Node.js specific
   - Timers
