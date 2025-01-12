@@ -70,10 +70,10 @@
   - Solution components
   - Risk assessment
   - Non Functional Requirements (NFR)
-  - Clouds h
+  - Clouds: 👂 heard
   - BPMN
-  - Low-code h
-  - No-code h
+  - Low-code: 👂 heard
+  - No-code: 👂 heard
   - Metric
   - Metric abuse
   - ACID
