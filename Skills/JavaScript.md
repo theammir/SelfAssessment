@@ -18,14 +18,14 @@
   - `...rest`
   - `typeof` u
   - Destructuring u
-  - Generators h
+  - Generators k
   - Iterators k
   - Async generator h
   - Async iterator h
   - Chaining u
   - Optional chaining u
-  - IIFE
-  - Async IIFE
+  - IIFE h
+  - Async IIFE h
   - `global`
   - `globalThis`
   - `window`
@@ -42,9 +42,9 @@
   - `await` u
   - Template literal
   - Strict mode h
-  - Hoisting
-  - `delete` k
-  - `in` k
+  - Hoisting h
+  - `delete` u
+  - `in` u
   - `super` k
   - `eval` k
   - `static` h
@@ -54,10 +54,10 @@
   - Sealing properties
   - Freezing properties
   - Computed properties
-  - Instance class fields
-  - Static class fields
-  - Private class fields
-  - Private class methods
+  - Instance class fields h
+  - Static class fields h
+  - Private class fields h
+  - Private class methods h
 - Statements
   - `if` u
   - `while` u
@@ -85,14 +85,14 @@
   - Function expression u
   - Default parameters u
   - Functional object h
-  - `Function.prototype.call`
-  - `Function.prototype.bind`
-  - `Function.prototype.apply`
+  - `Function.prototype.call` h
+  - `Function.prototype.bind` h
+  - `Function.prototype.apply` h
   - `return` u
 - Data structures
   - `Array` u
-  - `Map` k
-  - `Set` k
+  - `Map` u
+  - `Set` u
   - `WeakMap` h
   - `WeakSet` h
   - Typed arrays k

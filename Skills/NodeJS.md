@@ -11,19 +11,19 @@
   - I/O-bound, CPU-bound, memory-bound tasks k
   - Interactive applications (close to real-time) h
 - Modularity, layers and dependencies
-  - CommonJS modules
-  - ECMAScript modules
+  - CommonJS modules h
+  - ECMAScript modules h
   - Module `node:module`
   - Caching in CJS and ESM
-  - Modules as singletons h
+  - Modules as singletons k
   - Contexts and scripts module `node:vm`
   - Dependencies: `npm`, `node_modules` k
   - Files `package.json`, `package-lock.json` k
   - Module-based permissions model
   - Isolation with modularity
-  - Dependency injection
-  - DI containers
-  - Coupling and cohesion
+  - Dependency injection h
+  - DI containers h
+  - Coupling and cohesion k
   - Framework agnostic approach h
 - Environment
   - Command line arguments u
@@ -74,7 +74,7 @@
   - Websocket u
   - SSE
   - HTTP/3 (QUIC)
-  - Long polling
+  - Long polling h
   - REST u
   - RPC
   - Routing
@@ -125,14 +125,14 @@
   - Resource leaks h
   - Data race k
 - Integrations and bindings
-  - Native addons h
+  - Native addons u
   - `C` and `C++` addons
-  - `Rust` addons h
+  - `Rust` addons u
   - `Zig` addons h
   - NAN (Native Abstractions for Node.js)
-  - Node-API (formerly N-API) h
+  - Node-API (formerly N-API) u
   - NAPI `C` and `C++`
-  - NAPI `Rust` h
+  - NAPI `Rust` u
   - NAPI `Zig` h
   - Webassembly `WAT`
   - Webassembly `C` and `C++`
