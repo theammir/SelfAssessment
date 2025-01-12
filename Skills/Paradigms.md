@@ -49,14 +49,14 @@
   - Reflection: 🎓 known
   - The diamond problem: 🎓 known
 - GRASP
-  - Information expert: k
-  - Creator: k
-  - Controller: k
-  - Indirection: k
-  - Low coupling: k
-  - High cohesion: k
-  - Protected variations: k
-  - Pure fabrication: k
+  - Information expert: 🎓 known
+  - Creator: 🎓 known
+  - Controller: 🎓 known
+  - Indirection: 🎓 known
+  - Low coupling: 🎓 known
+  - High cohesion: 🎓 known
+  - Protected variations: 🎓 known
+  - Pure fabrication: 🎓 known
 - SOLID
   - Single-responsibility principle (SRP): 🖐️ used
   - Open–closed principle (OCP): 🖐️ used
