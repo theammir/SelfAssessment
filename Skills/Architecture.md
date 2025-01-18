@@ -1,39 +1,39 @@
 ## Architecture
 
 - Application structure
-  - Modularity e
-  - Components e
-  - Directories e
-  - GRASP h
-  - SOLID u
-  - GoF patterns k
+  - Modularity: 🙋 explained
+  - Components: 🙋 explained
+  - Directories: 🙋 explained
+  - GRASP: 👂 heard
+  - SOLID: 🖐️ used
+  - GoF patterns: 🎓 known
   - CQS
-  - Leaking abstractions k
-  - Multiparadigm code k
-  - Contract programming u
-  - Platform-agnostic u
-  - Transport-agnostic 
-  - Framework-agnostic h
-  - Code coverage k
-  - Cohesion u
-  - Coupling u
-  - Cyclomatic complexity h
-  - Reliability e
-  - Quality k
-  - Availability k
-  - Flexibility e
-  - Law of Demeter (LoD)
+  - Leaking abstractions: 🎓 known
+  - Multiparadigm code: 🎓 known
+  - Contract programming: 🖐️ used
+  - Platform-agnostic: 🖐️ used
+  - Transport-agnostic
+  - Framework-agnostic: 👂 heard
+  - Code coverage: 🎓 known
+  - Cohesion: 🖐️ used
+  - Coupling: 🖐️ used
+  - Cyclomatic complexity: 👂 heard
+  - Reliability: 🙋 explained
+  - Quality: 🎓 known
+  - Availability: 🎓 known
+  - Flexibility: 🙋 explained
+  - Law of Demeter (LoD): 🎓 known
 - Application architecture
-  - Isolation between layer
+  - Isolation between layer: 🎓 known
   - Domain-specific language (DSL)
-  - System vs applied code
-  - Multilayer approach
+  - System vs applied code: 🙋 explained
+  - Multilayer approach: 🎓 known
   - Hexagonal architecture
-  - Separation of concerns (SoC) e
+  - Separation of concerns (SoC): 🙋 explained
   - Metaprogramming
   - Inversion of control (IoC)
-  - Dependency injection (DI) k
-  - Clean architecture k
+  - Dependency injection (DI): 🎓 known
+  - Clean architecture: 🎓 known
   - Domain-driven design (DDD)
   - Pub/sub
   - Message brocker
@@ -43,9 +43,9 @@
   - CQRS
   - Event sourcing
   - E-R data modeling
-  - Entity-relationship diagram
+  - Entity-relationship diagram: 👂 heard
   - IDEF1X
-  - UML h
+  - UML: 👂 heard
   - Work breakdown structure
   - Budget estimation
   - Distributed systems
@@ -70,10 +70,10 @@
   - Solution components
   - Risk assessment
   - Non Functional Requirements (NFR)
-  - Clouds h
+  - Clouds: 👂 heard
   - BPMN
-  - Low-code h
-  - No-code h
+  - Low-code: 👂 heard
+  - No-code: 👂 heard
   - Metric
   - Metric abuse
   - ACID
